@@ -23,7 +23,7 @@ apksign {
 }
 
 android {
-    namespace = "com.arjun.fairyultra"
+    namespace = "com.rifsxd.ksunext"
 
     buildTypes {
         release {
